@@ -35,3 +35,16 @@ For more detail:
 Navigate to the **Project** directory:
 ```bash
 cd Image_Manipulation_Detection_System
+```
+
+Next, run the **detect.py** script, providing the image you wish to evaluate:
+```
+$ python GUI.py
+```
+
+Once finished, details on the image will be reported in the terminal. Supplemental images generated during copy-move forgery detection can be found in the output directory.
+
+##  IMAGES
+<img src="Screenshot/1.jpg">
+<img src="Screenshot/2.jpg">
+
